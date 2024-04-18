@@ -41,3 +41,7 @@ obj
 *.beam
 
 *.dump
+*.hi
+*.o
+
+main
